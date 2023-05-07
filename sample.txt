@@ -1,2 +1,12 @@
-" nothing " 
+
+<<<<<<< HEAD
 add the things that i was updated earlier and took the slowness in the readness of the matter.
+=======
+html
+
+skhefilhw
+hejkfhli
+khefliqwh
+klheflhw
+kheflwh
+>>>>>>> 149e817a79c8f7603ab22df64bf29105eb854c9f
